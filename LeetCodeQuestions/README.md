@@ -14,3 +14,4 @@
 20. <a href="./20-ValidParentheses" target="_blank">Valid Parentheses</a><span> #PHP</span>
 1071. <a href="./1071-Greatest Common Divisor of Strings/" target="_blank">Greatest Common Divisor of Strings</a><span> #PYTHON</span>
 1768. <a href="./1768-Merge Strings Alternately/" target="_blank">Merge Strings Alternately</a><span> #PYTHON</span>
+1431. <a href="./1431-Kids With the Greatest Number of Candies/" target="_blank">Kids With the Greatest Number of Candies</a><span> #PYTHON</span>
