@@ -15,3 +15,4 @@
 1071. <a href="./1071-Greatest Common Divisor of Strings/" target="_blank">Greatest Common Divisor of Strings</a><span> #PYTHON</span>
 1768. <a href="./1768-Merge Strings Alternately/" target="_blank">Merge Strings Alternately</a><span> #PYTHON</span>
 1431. <a href="./1431-Kids With the Greatest Number of Candies/" target="_blank">Kids With the Greatest Number of Candies</a><span> #PYTHON</span>
+605. <a href="./605-Can Place Flowers/" target="_blank">Can Place Flowers</a><span> #PYTHON</span>
