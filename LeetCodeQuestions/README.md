@@ -21,4 +21,4 @@
 2877. <a href="./2877-Create a DataFrame from List//" target="_blank">Create a DataFrame from List</a><span> #PYTHON</span>
 2878. <a href="./2878-Get the Size of a DataFrame//" target="_blank">Get the Size of a DataFrame</a><span> #PYTHON</span>
 2879. <a href="./2879-Display the First Three Rows//" target="_blank">Display the First Three Rows</a><span> #PYTHON</span>
-2880. <a href="./2879-Select Data//" target="_blank">Select Data</a><span> #PYTHON</span>
+2880. <a href="./2880-Select Data//" target="_blank">Select Data</a><span> #PYTHON</span>
